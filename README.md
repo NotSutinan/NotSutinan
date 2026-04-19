@@ -8,3 +8,8 @@
 - ☕ My favorite drink: Latte
 
 ---
+### 🛠️ Skills
+
+- **Learning now**: AI Agent, N8n, Comfyui
+- **Tools**: Git, GitHub, VS Code, Power BI, Tabular Editer, Dax Studio
+- **Languages**: Thai (native), English (intermediate)
